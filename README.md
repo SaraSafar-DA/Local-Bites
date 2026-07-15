@@ -20,5 +20,5 @@ You can experience the live application design and step through the user journey
 
 ---
 
-## 🛠️ Design Stack
-* Figma: High-fidelity UI design, component libraries, and interactive prototyping.
+##  Design Stack
+* Figma: High-fidelity UI design and interactive prototyping.
